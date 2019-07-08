@@ -1,0 +1,128 @@
+[
+   {
+      "name":"Redmi Note 4",
+      "brand":"Xiaomi",
+      "codename":"mido",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hung Phan (hungphan2001)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4936496",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Redmi Note 5 Pro",
+      "brand":"Xiaomi",
+      "codename":"whyred",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Qasim Ali",
+            "maintainer_url":"https://t.me/QasimXAli",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Redmi 5 Plus",
+      "brand":"Xiaomi",
+      "codename":"vince",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hung Phan (hungphan2001)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4936496",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Redmi 4/4X",
+      "brand":"Xiaomi",
+      "codename":"santoni",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"NBD_ERICK",
+            "maintainer_url":"https://t.me/device/xiaomi/santoni/prebuilts",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Redmi 3S/3X",
+      "brand":"Xiaomi",
+      "codename":"land",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Wolverine",
+            "maintainer_url":"https://t.me/Wolverine_X99",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+            "name":"Zenfone Max Pro M1",
+            "brand":"asus",
+            "codename":"X00T",
+            "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Saurabhcharde",
+            "maintainer_url":"https://t.me/SaurabhCharde",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+            "name":"Zenfone Max Pro M2",
+            "brand":"asus",
+            "codename":"X01BD",
+            "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Ashok Varma",
+            "maintainer_url":"https://t.me/TheAshokVarma",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"VEGA IRON 2",
+      "brand":"Pantech",
+      "codename":"ef63",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"chautruongthinh",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4894994",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Redmi 5A",
+      "brand":"Xiaomi",
+      "codename":"riva",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Layixin9",
+            "maintainer_url":"https://t.me/layixin9",
+            "xda_thread":""
+         }
+      ]
+   }
+]
