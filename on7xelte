@@ -1,0 +1,19 @@
+{
+    "website_url":"https:\/\/sourceforge.net\/projects\/lotus-os\/",
+    "news_url":"https:\/\/t.me\/LotusOSChannel",
+    "addons":
+    [
+   {
+     "title":"Download Latest Build",
+     "summary":"Lotus-OS-v1.1-20190717-0331-on7xelte-OFFICIAL.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/lotus-os\/files\/on7xelte\/Lotus-OS-v1.1-20190717-0331-on7xelte-OFFICIAL.zip\/download"
+    }
+    ],
+    "developer":"jbsjoshua007",
+    "developer_url":"https:\/\/t.me\/jbsjoshua007",
+    "build_date":"20190717-0331",
+    "filename":"Lotus-OS-v1.1-20190717-0331-on7xelte-OFFICIAL.zip"
+    "filesize":"619745815",
+    "url":"https:\/\/sourceforge.net\/projects\/lotus-os\/files\/on7xelte\/Lotus-OS-v1.1-20190717-0331-on7xelte-OFFICIAL.zip\/download",
+    "md5":"5f9dea409b456b26fdd87afad557bf3e"
+}
