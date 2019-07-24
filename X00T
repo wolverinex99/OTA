@@ -1,0 +1,19 @@
+{
+    "website_url":"https:\/\/sourceforge.net\/projects\/lotus-os\/",
+    "news_url":"https:\/\/t.me\/LotusOSChannel",
+    "addons":
+    [
+   {
+     "title":"Download Latest Build",
+     "summary":"Lotus-OS-v1.1-20190724-1328-X00T-OFFICIAL.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/lotus-os\/files\/X00T\/Lotus-OS-v1.1-20190724-1328-X00T-OFFICIAL.zip\/download"
+    }
+    ],
+    "developer":"Saurabh Charde",
+    "developer_url":"https:\/\/t.me\/SaurabhCharde",
+    "build_date":"20190724-1328",
+    "filename":"Lotus-OS-v1.1-20190724-1328-X00T-OFFICIAL.zip",
+    "filesize":"1065883615",
+    "url":"https:\/\/sourceforge.net\/projects\/lotus-os\/files\/X00T\/Lotus-OS-v1.1-20190724-1328-X00T-OFFICIAL.zip\/download",
+    "md5":"ddea89649513c1cf0930f7fd602588f9"
+}
