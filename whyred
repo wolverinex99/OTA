@@ -1,0 +1,19 @@
+{
+    "website_url":"https:\/\/sourceforge.net\/projects\/lotus-os\/",
+    "news_url":"https:\/\/t.me\/LotusOSChannel",
+    "addons":
+    [
+   {
+     "title":"Download Latest Build",
+     "summary":"Lotus-OS-v1.1-20190724-1028-whyred-Official.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/lotus-os\/files\/X00T\/Lotus-OS-v1.1-20190724-1028-whyred-Official.zip\/download"
+    }
+    ],
+    "developer":"Qasim Ali",
+    "developer_url":"https:\/\/t.me\/QasimXAli",
+    "build_date":"20190724-1028",
+    "filename":"Lotus-OS-v1.1-20190724-1028-whyred-Official.zip",
+    "filesize":"1100000000",
+    "url":"https:\/\/sourceforge.net\/projects\/lotus-os\/files\/X00T\/Lotus-OS-v1.1-20190724-1028-whyred-Official.zip\/download",
+    "md5":"9e5b90489470f4a3c2ae2e6aefab1ee6"
+}
