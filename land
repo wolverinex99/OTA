@@ -1,0 +1,20 @@
+{
+    "website_url":"https:\/\/sourceforge.net\/projects\/lotus-os\/",
+    "news_url":"https:\/\/t.me\/LotusOSChannel",
+    "addons":
+    [
+   {
+     "title":"Download Latest Build",
+     "summary":"Lotus-OS-v1.1-20190724-1456-land-Official.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/lotus-os\/files\/land\/Lotus-OS-v1.1-20190724-1456-land-Official.zip\/download"
+    }
+    ],
+    "developer":"Wolverine",
+    "developer_url":"https:\/\/t.me\/Wolverine_X99",
+    "build_date":"20190724-0327",
+    "filename":"Lotus-OS-v1.1-20190724-1456-land-Official.zip",
+    "filesize":"982422027",
+    "error": "false",
+    "url":"https:\/\/sourceforge.net\/projects\/lotus-os\/files\/land\/Lotus-OS-v1.1-20190724-1456-land-Official.zip\/download",
+    "md5":"5a1ca8bf65fe9be62e5ece25cdcda224"
+}
